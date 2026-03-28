@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: MIDDLE_ADMIN/the-middle-mag
+  repo: MIDDLE_ADMIN/middle-mag
   branch: main
 
 media_folder: "content/images"
